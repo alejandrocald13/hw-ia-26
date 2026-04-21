@@ -1,0 +1,39 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Archivos temporales
+*.Rproj
+*.Rout
+*.Rout.save
+*.Rout.fail
+*.RDataTmp
+*.tmp
+*.bak
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Salidas generadas
+*.xlsx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
